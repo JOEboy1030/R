@@ -10,7 +10,6 @@ fn main() {
     println!("{a}");
 
     
-
 }
 
 fn change(some_string: &mut String) {
